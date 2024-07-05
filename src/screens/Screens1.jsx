@@ -127,7 +127,7 @@ const Screens1 = ({ navigation }) => {
                 placeholder="Masukkan Alamat"
             />
 
-            <Button title="Selanjutnya" onPress={handleSubmit} />
+            <Button title="Next" onPress={handleSubmit} />
         </ScrollView>
     );
 };
